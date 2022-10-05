@@ -1,0 +1,34 @@
+﻿9월 13일 AI 현장 실습
+
+1. GIT LAB
+  1) new project 생성 및 삭제
+   (1) name : 'AI Controll'
+   (2) visibility(가시성) : private
+   (3) read me : add readme -> edit file -> commit change
+    *mark down : 확장자 .md 
+
+ 
+   (4) 라이센서 : add licnnse -> MIT LICENSE 
+   (5) 삭제 : settings -> advanced -> expand -> delete project
+   (6) upload file : upload file -> '폴더'선택 -> '파일' 선택 -> commit changes
+
+2. VS code
+  1) 소스 제어 (동기화)
+    (1) GIT LAB HTTPS 복제 : clone -> clone https 복사 
+    (2) (폴더 닫기) -> 리포지토리 복제 -> URL에 git lab https 주소 붙여넣기
+       -> 리포지터리 폴더 선택 -> sign in your browser -> 복제된 리포지토리 열기
+       * pdf : vs code 프로그램 실행 x -> 연결프로그램으로 열기
+
+3. phyton3
+  1) tutorialspoint -> quick guide -> 오른쪽 클릭 + 다른 이름으로 저장
+
+4. 명령 프롬프트
+  1) ipv4 확인 : ipconfig -> 172.30.177 
+    * 교실 공유기 : 192.168.01 
+    * 교실 와이파이 : al factory 5g / 3150 3150
+  2) 공유 파일 찾기 : \\ '상대 ip 주소' 
+  3) ping 확인 : ping '본인 ip 주소' 
+
+5. 네트워크 설정
+  1) 이더넷 사용, 사용중지 : 네트워크 설정 -> 어뎁터 옵션변경 -> 이더넷 사용 및 사용안함
+
